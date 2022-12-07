@@ -1,0 +1,16 @@
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\bin\Debug\ADONETFIRST.exe.config
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\bin\Debug\ADONETFIRST.exe
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\bin\Debug\ADONETFIRST.pdb
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.csproj.AssemblyReference.cache
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.csproj.SuggestedBindingRedirects.cache
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\MainWindow.g.cs
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\App.g.cs
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST_MarkupCompile.cache
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST_MarkupCompile.lref
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\MainWindow.baml
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.g.resources
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.Properties.Resources.resources
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.csproj.GenerateResource.cache
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.csproj.CoreCompileInputs.cache
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.exe
+C:\Users\alirz\source\repos\ADONETFIRST\ADONETFIRST\obj\Debug\ADONETFIRST.pdb
